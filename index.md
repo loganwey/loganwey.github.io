@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Hello, fellow interweb traveler
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+This is my first blog, and I'm very excited to learn as much as I can!
